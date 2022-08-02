@@ -1,0 +1,6 @@
+#!/bin/bash
+touch Data/data.csv
+touch R/01_Script.R R/02_Script.R
+touch Report/report.Rmd
+touch Report/report.html
+touch Output/fig1.png
